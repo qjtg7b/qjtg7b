@@ -11,3 +11,6 @@
 * Favorite TV Show: Family Guy
 * Favorite Movie: Stepbrothers
 <br>![Italy](italy.jpg)
+<br></br>
+[Home Page](https://github.com/qjtg7b/qjtg7b.git)
+<br>[Basic Information](https://github.com/qjtg7b/qjtg7b/blob/Basic-Information/README.md)
